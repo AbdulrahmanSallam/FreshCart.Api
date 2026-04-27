@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FreshCart.Api/FreshCart.Api.csproj" />
+    <Project Path="src/FreshCart.Application/FreshCart.Application.csproj" />
+    <Project Path="src/FreshCart.Contracts/FreshCart.Contracts.csproj" />
+    <Project Path="src/FreshCart.Domain/FreshCart.Domain.csproj" />
+    <Project Path="src/FreshCart.Infrastructure/FreshCart.Infrastructure.csproj" />
+  </Folder>
+</Solution>
